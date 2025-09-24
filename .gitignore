@@ -1,0 +1,95 @@
+# .NET build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Solution
+*.sln
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Test results
+TestResults/
+
+# NCrunch
+.ncrunch*
+*._ncrunch_*
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper*
+
+# DotCover
+*.dotCover
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows image file caches
+*.jfif
+*.jfi
+*.jif
+*.jpe
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+*.tif
+*.ico
+*.bmp
+*.dib
+*.rle
+*.emf
+*.wmf
+*.svg
+*.heic
+*.heif
+*.webp
+*.avif
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Dotnet tool restore
+.dotnet-tools.json
